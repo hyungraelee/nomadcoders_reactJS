@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/nomadcoders_react_js/static/css/main.2e51e1bb.chunk.css",
+    "main.js": "/nomadcoders_react_js/static/js/main.bd4bb8b5.chunk.js",
+    "main.js.map": "/nomadcoders_react_js/static/js/main.bd4bb8b5.chunk.js.map",
+    "runtime-main.js": "/nomadcoders_react_js/static/js/runtime-main.4c25e976.js",
+    "runtime-main.js.map": "/nomadcoders_react_js/static/js/runtime-main.4c25e976.js.map",
+    "static/js/2.9f8e23e2.chunk.js": "/nomadcoders_react_js/static/js/2.9f8e23e2.chunk.js",
+    "static/js/2.9f8e23e2.chunk.js.map": "/nomadcoders_react_js/static/js/2.9f8e23e2.chunk.js.map",
+    "index.html": "/nomadcoders_react_js/index.html",
+    "static/css/main.2e51e1bb.chunk.css.map": "/nomadcoders_react_js/static/css/main.2e51e1bb.chunk.css.map",
+    "static/js/2.9f8e23e2.chunk.js.LICENSE.txt": "/nomadcoders_react_js/static/js/2.9f8e23e2.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4c25e976.js",
+    "static/js/2.9f8e23e2.chunk.js",
+    "static/css/main.2e51e1bb.chunk.css",
+    "static/js/main.bd4bb8b5.chunk.js"
+  ]
+}
